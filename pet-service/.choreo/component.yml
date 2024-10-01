@@ -1,6 +1,6 @@
 schemaVersion: 0.9
 proxy:
   type: REST
-  schemaFilePath: swagger.yml
+  schemaFilePath: swagger.yaml
   thumbnailPath: /pet-service/images/thumbnail.png
   docPath: /pet-service/docs/documents
